@@ -17,3 +17,4 @@ C:\Users\hp\Desktop\cmder
 	git commit -m "Version incial"
 
 10. comandos agregadas a archivo readme.md
+11. git add .    git commit -m "agrega solucion primer ejercicio".
